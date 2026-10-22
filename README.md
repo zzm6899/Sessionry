@@ -1,5 +1,9 @@
 # Sessionry
 
+<p align="center">
+  <img src="assets/sessionry-wordmark.svg" alt="Sessionry — photography workflow for studios" width="360">
+</p>
+
 **From the first booking to the finished gallery.**
 
 Sessionry brings photography bookings, client proofing, gallery delivery and studio administration into one workspace. It is designed for photographers working across events, conventions and portrait sessions.
