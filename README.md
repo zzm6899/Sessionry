@@ -4,20 +4,18 @@
   <img src="assets/sessionry-wordmark.svg" alt="Sessionry — photography workflow for studios" width="360">
 </p>
 
-**From the first booking to the finished gallery.**
+Sessionry is a workspace for photographers who shoot events, conventions and portraits. Use it to manage bookings, send proofs, deliver galleries and handle studio paperwork.
 
-Sessionry brings photography bookings, client proofing, gallery delivery and studio administration into one workspace. It is designed for photographers working across events, conventions and portrait sessions.
+## What you can do
 
-## A connected photography workflow
+- Set your availability and keep client details, booking status, reminders and session tasks together.
+- Link bookings to albums and uploads from the day of the shoot.
+- Send watermarked previews so clients can select photos and comment before you prepare the final gallery.
+- Manage gallery access, downloads and delivery notifications.
+- Track quotes, invoices, expenses and payments, and report on where bookings came from.
+- Set up your studio profile, watermarks, booking options, albums, tags and client communications.
 
-- **Manage bookings:** organise availability, client details, booking status, reminders and session tasks.
-- **Prepare and capture:** connect bookings to albums and event-day uploads.
-- **Proof with clients:** share watermarked previews, gather photo selections and comments, then prepare the final gallery.
-- **Deliver galleries:** organise client access, downloads and delivery notifications.
-- **Run studio operations:** manage quotes, invoices, expenses, payment records and booking-source reports.
-- **Set up your studio:** configure your profile, watermark preferences, booking options, albums, tags and client communications.
-
-Separate photographer workspaces let multiple studios organise their work. Admin and tenant workspaces each include role-specific guides and passkey sign-in, with password login available as a fallback. Client gallery access follows a separate flow. Features and integrations depend on the agreed setup.
+Studios can work in separate photographer workspaces. The admin and tenant workspaces have their own guides and support passkey sign-in with a password fallback. Clients access galleries separately. Available features and integrations depend on your studio's setup.
 
 ## Explore and enquire
 
@@ -25,8 +23,8 @@ Separate photographer workspaces let multiple studios organise their work. Admin
 - [View the proofing demo](https://book.zacmclients.photos/demo/proofing)
 - [Contact the studio](https://book.zacmclients.photos/contact)
 
-Access, pricing, setup, storage and domain arrangements are discussed by enquiry. The access page does not collect payment or create an account. Confirm availability, pricing and terms before proceeding.
+Get in touch to discuss access, pricing, setup, storage and domains. The access page is for enquiries. It does not take payment or create an account. Confirm availability, pricing and terms with the studio first.
 
-## About this showcase
+## About this repository
 
 This repository contains a product overview only. It does not contain the application source code, customer data or license keys.
